@@ -1,0 +1,88 @@
+* {
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000000;
+}
+
+header {
+  background: url("mountain-sunset.jpg");
+  height: 439px;
+  width: 968px;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+#heading-primary {
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+
+#heading-subheading {
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.main-content {
+  margin: 0 24rem;
+}
+
+.quote {
+  color: #FFFFCC;
+  font-size: 14px;
+  margin-bottom: 1rem;
+}
+
+.center-text {
+  text-align: center;
+}
+
+#definition-of-truth {
+  position: relative;
+  left: 1rem;
+}
+
+.resource {
+  color: #9999FF;
+  text-align: center;
+}
+
+.header-top {
+  margin-left: 1rem;
+  display: flex;
+}
+
+.header-bottom {
+  display: flex;
+  margin-top: 8px;
+}
+
+.container {
+  flex: 1;
+}
+
+.container-header-bottom {
+  margin: 1rem;
+}
+
+#TRUTH {
+  text-align: center;
+  margin-top: 1.5rem;
+  position: relative;
+  right: 2rem;
+}
+
+.container-4, .container-5 {
+  margin-top: auto;
+}
+
+footer {
+  height: 439px;
+  width: 968px;
+  padding: 1rem;
+}
